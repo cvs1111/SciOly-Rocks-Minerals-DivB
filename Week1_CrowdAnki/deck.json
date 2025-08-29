@@ -1,0 +1,147 @@
+{
+  "crowdanki_uuid": "d20b1d9c-5c7b-4d86-9d67-0f4e0d9d7f01",
+  "deck_config_uuid": "b3f2a7fb-5f0a-4d24-89f0-5f1c9b2a4d11",
+  "name": "SciOly DivB Rocks & Minerals — Week 1",
+  "desc": "Division B — Week 1 image-only identification. Front = image only; Back = name + key properties. Tags: Week1, Mineral.",
+  "notes": [
+    {
+      "guid": "b1f58a2a4b9a4a8cb2b1f58a2a4b9a4a",
+      "note_model_uuid": "2c1a2c7c-9d5a-4a32-8d7e-7a0e6b1f1e21",
+      "fields": [
+        "<img src=\"aragonite.jpg\">",
+        "<b>Aragonite</b> — Carbonate (CaCO₃)<br><b>Hardness:</b> 3.5–4<br><b>Streak:</b> white<br><b>Luster:</b> vitreous<br><b>Cleavage:</b> distinct (orthorhombic; often needle/prismatic radiating clusters)<br><b>Key tests:</b> vigorous fizz in cold dilute HCl; higher SG than calcite; different crystal habit<br><b>Notes/Uses:</b> component of shells/corals; polymorph of calcite."
+      ],
+      "tags": ["Week1", "Mineral", "Carbonate"]
+    },
+    {
+      "guid": "c2f67b3c5d8e4f12a3c2f67b3c5d8e4f1",
+      "note_model_uuid": "2c1a2c7c-9d5a-4a32-8d7e-7a0e6b1f1e21",
+      "fields": [
+        "<img src=\"calcite.jpg\">",
+        "<b>Calcite</b> — Carbonate (CaCO₃)<br><b>Hardness:</b> 3<br><b>Streak:</b> white<br><b>Luster:</b> vitreous<br><b>Cleavage:</b> perfect rhombohedral (3 directions)<br><b>Key tests:</b> strong fizz in cold dilute HCl; double refraction in clear rhombohedra<br><b>Notes/Uses:</b> limestone/marble component; cement, acid neutralization."
+      ],
+      "tags": ["Week1", "Mineral", "Carbonate"]
+    },
+    {
+      "guid": "d3e78c4d6e9f4a23b4d3e78c4d6e9f4a2",
+      "note_model_uuid": "2c1a2c7c-9d5a-4a32-8d7e-7a0e6b1f1e21",
+      "fields": [
+        "<img src=\"dolomite.jpg\">",
+        "<b>Dolomite</b> — Carbonate (CaMg(CO₃)₂)<br><b>Hardness:</b> 3.5–4<br><b>Streak:</b> white<br><b>Luster:</b> vitreous to pearly<br><b>Cleavage:</b> rhombohedral (3 directions)<br><b>Key tests:</b> weak/no fizz in cold dilute HCl unless powdered or scratched; saddle-shaped crystals common<br><b>Notes/Uses:</b> dolostone rock former; Mg source."
+      ],
+      "tags": ["Week1", "Mineral", "Carbonate"]
+    },
+    {
+      "guid": "e4a89d5e7f0a4b34c5e4a89d5e7f0a4b3",
+      "note_model_uuid": "2c1a2c7c-9d5a-4a32-8d7e-7a0e6b1f1e21",
+      "fields": [
+        "<img src=\"malachite.jpg\">",
+        "<b>Malachite</b> — Carbonate (Cu₂CO₃(OH)₂)<br><b>Hardness:</b> 3.5–4<br><b>Streak:</b> pale green<br><b>Luster:</b> silky to vitreous<br><b>Cleavage:</b> poor<br><b>Key tests:</b> vivid banded green; effervesces slowly in HCl; may color acid green<br><b>Notes/Uses:</b> copper ore; decorative stone."
+      ],
+      "tags": ["Week1", "Mineral", "Carbonate", "CopperOre"]
+    },
+    {
+      "guid": "f5b90e6f801b4c45d6f5b90e6f801b4c4",
+      "note_model_uuid": "2c1a2c7c-9d5a-4a32-8d7e-7a0e6b1f1e21",
+      "fields": [
+        "<img src=\"copper.jpg\">",
+        "<b>Copper</b> — Native element (Cu)<br><b>Hardness:</b> ~3<br><b>Streak:</b> copper-red<br><b>Luster:</b> metallic<br><b>Cleavage:</b> none; hackly fracture<br><b>Key tests:</b> malleable/ductile; tarnishes green; high density<br><b>Notes/Uses:</b> wiring, coins, alloys."
+      ],
+      "tags": ["Week1", "Mineral", "NativeElement"]
+    },
+    {
+      "guid": "a6c01f70812c4d56e7a6c01f70812c4d5",
+      "note_model_uuid": "2c1a2c7c-9d5a-4a32-8d7e-7a0e6b1f1e21",
+      "fields": [
+        "<img src=\"diamond.jpg\">",
+        "<b>Diamond</b> — Native element (C)<br><b>Hardness:</b> 10 (Mohs)<br><b>Streak:</b> none (white)<br><b>Luster:</b> adamantine<br><b>Cleavage:</b> perfect in 4 directions (octahedral)<br><b>Key tests:</b> extreme hardness; high dispersion (sparkle)<br><b>Notes/Uses:</b> gem; cutting/abrasive."
+      ],
+      "tags": ["Week1", "Mineral", "NativeElement"]
+    },
+    {
+      "guid": "b7d12a81923d4e67f8b7d12a81923d4e6",
+      "note_model_uuid": "2c1a2c7c-9d5a-4a32-8d7e-7a0e6b1f1e21",
+      "fields": [
+        "<img src=\"gold.jpg\">",
+        "<b>Gold</b> — Native element (Au)<br><b>Hardness:</b> 2.5–3<br><b>Streak:</b> yellow<br><b>Luster:</b> metallic<br><b>Cleavage:</b> none; hackly fracture<br><b>Key tests:</b> malleable; very high density; does not tarnish; distinct yellow color<br><b>Notes/Uses:</b> jewelry, electronics, currency."
+      ],
+      "tags": ["Week1", "Mineral", "NativeElement"]
+    },
+    {
+      "guid": "c8e23b92a34e4f78g9c8e23b92a34e4f7",
+      "note_model_uuid": "2c1a2c7c-9d5a-4a32-8d7e-7a0e6b1f1e21",
+      "fields": [
+        "<img src=\"graphite.jpg\">",
+        "<b>Graphite</b> — Native element (C)<br><b>Hardness:</b> 1–2<br><b>Streak:</b> dark gray to black<br><b>Luster:</b> metallic to earthy<br><b>Cleavage:</b> basal; very soft/greasy feel<br><b>Key tests:</b> writes on paper; very low SG compared to metallic minerals<br><b>Notes/Uses:</b> pencils (\"lead\"), lubricants."
+      ],
+      "tags": ["Week1", "Mineral", "NativeElement"]
+    },
+    {
+      "guid": "d9f34ca3b45f4g89h0d9f34ca3b45f4g8",
+      "note_model_uuid": "2c1a2c7c-9d5a-4a32-8d7e-7a0e6b1f1e21",
+      "fields": [
+        "<img src=\"silver.jpg\">",
+        "<b>Silver</b> — Native element (Ag)<br><b>Hardness:</b> 2.5–3<br><b>Streak:</b> silver-white<br><b>Luster:</b> metallic (very bright)<br><b>Cleavage:</b> none; hackly fracture<br><b>Key tests:</b> malleable/ductile; tarnishes black (Ag₂S); high conductivity<br><b>Notes/Uses:</b> electronics, jewelry, coins."
+      ],
+      "tags": ["Week1", "Mineral", "NativeElement"]
+    },
+    {
+      "guid": "e0a45db4c56f4h90i1e0a45db4c56f4h9",
+      "note_model_uuid": "2c1a2c7c-9d5a-4a32-8d7e-7a0e6b1f1e21",
+      "fields": [
+        "<img src=\"sulfur.jpg\">",
+        "<b>Sulfur</b> — Native element (S)<br><b>Hardness:</b> ~2<br><b>Streak:</b> white<br><b>Luster:</b> resinous<br><b>Cleavage:</b> poor; brittle<br><b>Key tests:</b> bright yellow color; low density; burns with blue flame and pungent odor (⚠️ do not burn samples at home)<br><b>Notes/Uses:</b> fertilizer, chemicals."
+      ],
+      "tags": ["Week1", "Mineral", "NativeElement"]
+    }
+  ],
+  "note_models": [
+    {
+      "crowdanki_uuid": "2c1a2c7c-9d5a-4a32-8d7e-7a0e6b1f1e21",
+      "name": "ImageOnly_RocksMinerals_DivB",
+      "fields": [
+        {"name": "Image"},
+        {"name": "Answer"}
+      ],
+      "templates": [
+        {
+          "name": "Card 1",
+          "qfmt": "{{Image}}",
+          "afmt": "{{Image}}<hr id=answer>{{Answer}}"
+        }
+      ],
+      "type": 0,
+      "css": ".card { font-family: Arial; font-size: 18px; text-align: center; } img { max-height: 70vh; } hr#answer { margin: 1em 0; }"
+    }
+  ],
+  "deck_configurations": [
+    {
+      "crowdanki_uuid": "b3f2a7fb-5f0a-4d24-89f0-5f1c9b2a4d11",
+      "name": "Default (ImageOnly_RnM)",
+      "autoplay": false,
+      "dyn": false,
+      "lapse": {
+        "leechAction": 0,
+        "leechFails": 8,
+        "minInt": 1
+      },
+      "new": {
+        "bury": true,
+        "delays": [1, 10],
+        "initialFactor": 2500,
+        "ints": [1, 4, 7],
+        "order": 0,
+        "perDay": 15
+      },
+      "rev": {
+        "bury": true,
+        "ease4": 130,
+        "ivlFct": 100,
+        "maxIvl": 36500,
+        "perDay": 150
+      },
+      "timer": 0
+    }
+  ],
+  "mid": 0
+}
